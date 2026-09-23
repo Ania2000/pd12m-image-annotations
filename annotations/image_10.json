@@ -1,0 +1,77 @@
+{
+  "image": "image_10.jpeg",
+  "pl": {
+    "object_annotations": [
+      {
+        "object": "kobieta",
+        "description": "Kobieta stoi na pierwszym planie, w centralnej części czarno-białej fotografii. Jest przedstawiona w pozycji stojącej i zwrócona w stronę aparatu. Na jej twarzy widoczny jest uśmiech. Ma ciemne włosy, a jej sylwetka jest widoczna niemal w całości, od głowy do stóp. Postać jest wyraźniejsza i większa niż elementy znajdujące się w dalszym planie."
+      },
+      {
+        "object": "ciemny płaszcz",
+        "description": "Kobieta ma na sobie długi, ciemny płaszcz sięgający poniżej kolan. Płaszcz jest dopasowany w talii za pomocą widocznego pasa. Jego ciemna powierzchnia wyraźnie kontrastuje z jasnym, pokrytym śniegiem podłożem. Dolna część płaszcza rozszerza się w kierunku nóg."
+      },
+      {
+        "object": "rękawiczki",
+        "description": "Na dłoniach kobiety widoczne są rękawiczki. Ręce znajdują się po bokach jej ciała. Rękawiczki stanowią część ubioru widocznego na pierwszym planie."
+      },
+      {
+        "object": "buty",
+        "description": "Kobieta ma na nogach ciemne buty sięgające powyżej kostek. Są widoczne na tle jasnego, pokrytego śniegiem podłoża. Obie stopy znajdują się na powierzchni śniegu."
+      },
+      {
+        "object": "śnieg",
+        "description": "Jasny śnieg pokrywa dużą część powierzchni ziemi na pierwszym i środkowym planie. Tworzy wyraźny kontrast z ciemnym ubraniem kobiety oraz ciemniejszymi elementami zabudowy i roślinności. Powierzchnia śniegu nie jest całkowicie jednolita i widoczne są na niej lokalne różnice jasności oraz nierówności."
+      },
+      {
+        "object": "budynki w tle",
+        "description": "Za kobietą widoczne są niewielkie budynki o prostych bryłach i spadzistych dachach. Znajdują się w dalszym planie i są mniej szczegółowe niż postać na pierwszym planie. Widoczne są fragmenty ścian, dachów oraz ciemniejszych otworów lub elementów konstrukcyjnych. Na podstawie samego obrazu nie można wiarygodnie określić dokładnej funkcji tych budynków."
+      },
+      {
+        "object": "bezlistne drzewa",
+        "description": "W tle znajdują się drzewa pozbawione liści. Ich cienkie pnie i liczne rozgałęzione konary tworzą nieregularne ciemne linie na tle jaśniejszych obszarów fotografii. Drzewa znajdują się za kobietą oraz w pobliżu zabudowań."
+      },
+      {
+        "object": "otoczenie",
+        "description": "Scena przedstawia otwartą przestrzeń na zewnątrz z pokrytym śniegiem podłożem, niewielkimi budynkami i bezlistnymi drzewami. Poszczególne elementy są rozmieszczone na kilku planach, dzięki czemu centralna postać jest wyraźnie oddzielona od dalszego otoczenia."
+      }
+    ],
+    "global_description": "Czarno-biała fotografia przedstawia kobietę stojącą na zewnątrz na pokrytym śniegiem terenie. Kobieta znajduje się w centralnej części pierwszego planu i jest głównym elementem kompozycji. Jest zwrócona w stronę aparatu, a na jej twarzy widoczny jest uśmiech. Jej sylwetka jest pokazana niemal w całości, od głowy do stóp. Ma na sobie długi, ciemny płaszcz sięgający poniżej kolan. Płaszcz jest dopasowany w talii za pomocą pasa, który tworzy wyraźną poziomą linię w środkowej części sylwetki. Na dłoniach widoczne są rękawiczki, a na nogach ciemne buty sięgające powyżej kostek. Ciemny ubiór kobiety silnie kontrastuje z jasnym śniegiem pokrywającym ziemię. Śnieg zajmuje dużą część pierwszego i środkowego planu i nie tworzy całkowicie jednolitej powierzchni; widoczne są na nim różnice jasności oraz niewielkie nierówności. Za kobietą znajdują się niewielkie budynki o prostych bryłach i spadzistych dachach. Są znacznie mniejsze od centralnej postaci ze względu na większą odległość od aparatu i zawierają mniej widocznych szczegółów. Na podstawie samej fotografii nie można jednoznacznie określić ich dokładnego przeznaczenia. W dalszym planie widoczne są również bezlistne drzewa. Ich pnie i liczne cienkie gałęzie tworzą nieregularną sieć ciemnych linii i częściowo nakładają się wizualnie na zabudowania oraz pozostałe elementy tła. Fotografia ma wyraźny podział przestrzenny: kobieta dominuje na pierwszym planie, pokryty śniegiem teren rozciąga się wokół niej i w kierunku dalszej części sceny, a budynki oraz drzewa tworzą tło. Centralne ustawienie postaci oraz kontrast między jej ciemnym ubraniem a jasnym śniegiem sprawiają, że sylwetka wyraźnie odcina się od otoczenia. Obraz jest monochromatyczny, dlatego jego strukturę wizualną tworzą przede wszystkim różnice jasności, kontrast oraz kształty postaci, zabudowy i roślinności. Na podstawie samego wyglądu fotografii nie jest określana tożsamość kobiety, dokładna lokalizacja ani data wykonania zdjęcia."
+  },
+  "en": {
+    "object_annotations": [
+      {
+        "object": "woman",
+        "description": "A woman stands in the foreground near the center of the black-and-white photograph. She is shown in a standing position and faces the camera. A smile is visible on her face. She has dark hair, and her figure is visible almost completely from head to feet. She appears larger and more clearly defined than the elements in the background."
+      },
+      {
+        "object": "dark coat",
+        "description": "The woman wears a long dark coat extending below her knees. The coat is fitted at the waist with a visible belt. Its dark surface contrasts strongly with the light snow-covered ground. The lower portion of the coat widens toward her legs."
+      },
+      {
+        "object": "gloves",
+        "description": "Gloves are visible on the woman's hands. Her arms are positioned along the sides of her body. The gloves form part of the clothing visible on the main foreground figure."
+      },
+      {
+        "object": "boots",
+        "description": "The woman wears dark boots extending above her ankles. They are visible against the light snow-covered ground. Both feet are positioned on the snowy surface."
+      },
+      {
+        "object": "snow",
+        "description": "Light-colored snow covers a large portion of the ground in the foreground and middle ground. It creates a strong contrast with the woman's dark clothing and the darker elements of the buildings and vegetation. The snow surface is not completely uniform, with local variations in brightness and small irregularities visible across it."
+      },
+      {
+        "object": "buildings in the background",
+        "description": "Small buildings with simple forms and sloping roofs are visible behind the woman. They are positioned in the background and contain less visible detail than the foreground figure. Portions of walls, roofs, and darker openings or structural elements can be seen. The exact function of these buildings cannot be determined reliably from the image alone."
+      },
+      {
+        "object": "leafless trees",
+        "description": "Leafless trees are visible in the background. Their thin trunks and numerous branching limbs create irregular dark lines against lighter areas of the photograph. The trees are positioned behind the woman and near the buildings."
+      },
+      {
+        "object": "surroundings",
+        "description": "The scene shows an outdoor area with snow-covered ground, small buildings, and leafless trees. These elements are distributed across several spatial layers, clearly separating the central foreground figure from the more distant surroundings."
+      }
+    ],
+    "global_description": "The black-and-white photograph shows a woman standing outdoors on snow-covered ground. She occupies the central part of the foreground and is the main element of the composition. She faces the camera, and a smile is visible on her face. Her figure is shown almost completely from head to feet. She wears a long dark coat extending below her knees. A belt fits the coat around her waist and creates a distinct horizontal line across the middle of her figure. Gloves are visible on her hands, and she wears dark boots extending above her ankles. Her dark clothing contrasts strongly with the light snow covering the ground. The snow occupies a large portion of the foreground and middle ground and does not form a completely uniform surface; variations in brightness and small irregularities are visible across it. Small buildings with simple forms and sloping roofs stand behind the woman. They appear considerably smaller than the central figure because of their greater distance from the camera and contain fewer visible details. Their exact function cannot be determined reliably from the photograph alone. Leafless trees are also visible in the background. Their trunks and numerous thin branches create an irregular network of dark lines and visually overlap portions of the buildings and other background elements. The photograph has a clear spatial organization: the woman dominates the foreground, the snow-covered terrain extends around her and into the middle ground, and the buildings and trees form the background. The central placement of the figure and the contrast between her dark clothing and the bright snow make her silhouette stand out clearly from the surroundings. Because the image is monochrome, its visual structure is defined primarily by differences in brightness, contrast, and the shapes of the person, buildings, and vegetation. The woman's identity, the exact location, and the date of the photograph are not inferred from its appearance alone."
+  }
+}

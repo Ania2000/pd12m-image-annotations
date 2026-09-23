@@ -1,0 +1,61 @@
+{
+  "image": "image_07.jpeg",
+  "pl": {
+    "object_annotations": [
+      {
+        "object": "zbiornik wodny",
+        "description": "Duży, spokojny zbiornik wodny zajmuje znaczną część dolnej i środkowej części obrazu. Powierzchnia wody jest stosunkowo gładka, z niewielkimi zaburzeniami i delikatnymi refleksami. W wodzie widoczne są odbicia części otaczającej roślinności, pawilonu oraz jasnego nieba. Odbicia są mniej wyraźne niż obiekty znajdujące się nad powierzchnią wody i miejscami ulegają zniekształceniu."
+      },
+      {
+        "object": "pawilon",
+        "description": "Po lewej stronie środkowej części obrazu, przy wodzie, znajduje się niewielki dekoracyjny pawilon. Konstrukcja ma charakterystyczny dach z zakrzywionymi ku górze narożnikami. Dach jest wyraźnie szerszy od znajdującej się pod nim części konstrukcji. Pawilon jest otoczony zielenią i częściowo wyróżnia się na tle drzew. Jego odbicie jest widoczne na powierzchni wody."
+      },
+      {
+        "object": "most lub przejście nad wodą",
+        "description": "W pobliżu pawilonu znajduje się wąska konstrukcja przypominająca most lub przejście biegnące nad wodą albo bezpośrednio przy jej krawędzi. Łączy obszar pawilonu z otaczającym terenem i tworzy poziomy element przecinający fragment krajobrazu. Część konstrukcji jest otoczona roślinnością."
+      },
+      {
+        "object": "drzewa i roślinność",
+        "description": "Wokół zbiornika wodnego znajduje się gęsta zielona roślinność. Drzewa tworzą nieregularny pas oddzielający wodę od zabudowy widocznej w dalszym planie. Ich korony mają różne wysokości i kształty, a część gałęzi rozciąga się w kierunku powierzchni wody. Zieleń otacza również pawilon i fragment przejścia."
+      },
+      {
+        "object": "budynki wysokościowe",
+        "description": "W dalszym planie, ponad linią drzew, widoczne są wysokie nowoczesne budynki. Mają proste, pionowe sylwetki i znajdują się w znacznej odległości od pierwszego planu. Część budynków jest słabiej widoczna z powodu atmosferycznego zamglenia. Ich geometryczne formy kontrastują z nieregularnymi kształtami drzew i naturalnym charakterem pierwszego planu."
+      },
+      {
+        "object": "niebo",
+        "description": "Niebo zajmuje dużą część górnej połowy obrazu. Jest jasne i tworzy otwartą przestrzeń ponad linią drzew oraz wysokich budynków. Jego jasne tony kontrastują z ciemniejszą zielenią roślinności. Fragmenty jasnego nieba są również odbijane przez powierzchnię zbiornika wodnego."
+      }
+    ],
+    "global_description": "Fotografia przedstawia rozległy, spokojny zbiornik wodny otoczony zielenią, z dekoracyjnym pawilonem po lewej stronie oraz wysokimi budynkami widocznymi w oddali. Woda zajmuje dużą część pierwszego i środkowego planu, tworząc szeroką, stosunkowo gładką powierzchnię. Widoczne są na niej delikatne refleksy oraz odbicia elementów znajdujących się przy brzegu, w tym drzew, pawilonu i jasnego nieba. Odbicia są mniej ostre od obiektów znajdujących się nad wodą i miejscami są lekko zniekształcone przez niewielkie nierówności powierzchni. Po lewej stronie, w pobliżu brzegu, znajduje się dekoracyjny pawilon z charakterystycznym dachem o narożnikach zakrzywionych ku górze. Konstrukcja jest stosunkowo niewielka w porównaniu z całym krajobrazem i otoczona zieloną roślinnością. W pobliżu pawilonu widoczne jest wąskie przejście lub most biegnący nad wodą albo bezpośrednio przy jej krawędzi. Pawilon, przejście oraz otaczające je drzewa tworzą bardziej szczegółowy obszar po lewej stronie kompozycji. Wzdłuż dalszej krawędzi zbiornika rozciąga się gęsty pas drzew i innej roślinności. Korony drzew mają różne wysokości i nieregularne kształty, tworząc naturalną granicę pomiędzy wodą a dalszym planem. Ponad linią drzew widoczne są wysokie budynki o prostych, pionowych sylwetkach. Znajdują się w dużej odległości i część ich szczegółów jest osłabiona przez atmosferyczne zamglenie. Geometryczne formy zabudowy wyraźnie różnią się od organicznych kształtów drzew oraz spokojnej powierzchni wody. Dużą część górnej części kadru zajmuje jasne niebo, dzięki czemu kompozycja ma dużo otwartej przestrzeni. Obraz można podzielić na kilka planów: na pierwszym planie dominuje powierzchnia wody, w środkowym znajdują się pawilon, przejście i pas roślinności, natomiast w tle widoczne są wysokie budynki oraz jasne niebo. Pozioma powierzchnia wody i linia roślinności kontrastują z pionowymi sylwetkami budynków. Pawilon po lewej stronie stanowi charakterystyczny punkt kompozycji, podczas gdy rozległa woda tworzy dużą otwartą przestrzeń w centralnej i dolnej części obrazu. Dominują odcienie zieleni roślinności, jasne tony nieba oraz stonowane kolory odbijające się w wodzie."
+  },
+  "en": {
+    "object_annotations": [
+      {
+        "object": "body of water",
+        "description": "A large calm body of water occupies a substantial portion of the lower and central areas of the image. Its surface is relatively smooth, with slight disturbances and subtle reflections. Reflections of surrounding vegetation, the pavilion, and the bright sky are visible in the water. These reflections are less sharply defined than the objects above the water and are slightly distorted in places."
+      },
+      {
+        "object": "pavilion",
+        "description": "A small decorative pavilion is positioned near the water on the left side of the middle ground. The structure has a distinctive roof with corners curving upward. The roof is visibly wider than the structure beneath it. The pavilion is surrounded by greenery and partially stands out against the trees. Its reflection is visible on the surface of the water."
+      },
+      {
+        "object": "bridge or walkway",
+        "description": "A narrow structure resembling a bridge or walkway is visible near the pavilion, extending over the water or directly along its edge. It connects the pavilion area with the surrounding land and creates a horizontal element across part of the landscape. Portions of the structure are surrounded by vegetation."
+      },
+      {
+        "object": "trees and vegetation",
+        "description": "Dense green vegetation surrounds the body of water. Trees form an irregular band separating the water from the buildings visible farther in the background. Their crowns vary in height and shape, and some branches extend toward the water. Greenery also surrounds the pavilion and portions of the nearby walkway."
+      },
+      {
+        "object": "high-rise buildings",
+        "description": "Tall modern buildings are visible in the distance above the line of trees. They have simple vertical silhouettes and are located far from the foreground. Some of the buildings appear less distinct because of atmospheric haze. Their geometric forms contrast with the irregular shapes of the trees and the natural elements in the foreground."
+      },
+      {
+        "object": "sky",
+        "description": "The sky occupies a large portion of the upper half of the image. It is bright and creates an open area above the trees and distant high-rise buildings. Its light tones contrast with the darker green vegetation. Portions of the bright sky are also reflected on the surface of the water."
+      }
+    ],
+    "global_description": "The photograph shows a large calm body of water surrounded by greenery, with a decorative pavilion on the left and tall buildings visible in the distance. The water occupies much of the foreground and middle ground, forming a broad and relatively smooth surface. Subtle reflections of objects near the shore, including trees, the pavilion, and the bright sky, are visible across the water. These reflections are less sharply defined than the objects above the surface and are slightly distorted by minor variations in the water. On the left side near the shore is a decorative pavilion with a distinctive roof whose corners curve upward. The structure is relatively small compared with the overall landscape and is surrounded by green vegetation. A narrow walkway or bridge is visible near the pavilion, extending over the water or directly along its edge. The pavilion, walkway, and surrounding trees form a more detailed area on the left side of the composition. A dense band of trees and other vegetation extends along the farther edge of the water. The tree crowns vary in height and have irregular shapes, creating a natural boundary between the water and the distant background. Above the tree line, tall buildings with simple vertical silhouettes are visible. They are located at a considerable distance, and some of their details are softened by atmospheric haze. The geometric forms of the buildings contrast with the organic shapes of the trees and the calm surface of the water. A bright sky occupies a large portion of the upper frame, creating substantial open space above the landscape. The image can be divided into several spatial layers: the water dominates the foreground, the pavilion, walkway, and vegetation occupy the middle ground, and the high-rise buildings and bright sky form the background. The broad horizontal surface of the water and the line of vegetation contrast with the vertical silhouettes of the distant buildings. The pavilion on the left forms a distinctive focal element, while the expansive water creates a large open area across the central and lower parts of the image. Shades of green dominate the vegetation, accompanied by the lighter tones of the sky and muted colors reflected in the water."
+  }
+}

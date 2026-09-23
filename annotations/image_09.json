@@ -1,0 +1,85 @@
+{
+  "image": "image_09.jpeg",
+  "pl": {
+    "object_annotations": [
+      {
+        "object": "droga",
+        "description": "Utwardzona droga zajmuje dużą część dolnej i środkowej części obrazu i prowadzi w głąb sceny. W pobliżu pierwszego planu widoczne jest skrzyżowanie lub połączenie kilku odcinków drogi. Nawierzchnia jest stosunkowo jednolita, a jej krawędzie wyznaczają kierunek perspektywy i prowadzą wzrok w stronę dalszej części obrazu."
+      },
+      {
+        "object": "skrzyżowanie",
+        "description": "W centralnej części sceny znajduje się miejsce, w którym łączą się lub przecinają drogi. Poszczególne odcinki nawierzchni rozchodzą się w różnych kierunkach. Skrzyżowanie tworzy otwartą przestrzeń pomiędzy zabudową znajdującą się po lewej i prawej stronie."
+      },
+      {
+        "object": "budynki mieszkalne",
+        "description": "Po lewej stronie drogi znajduje się kilka niewielkich budynków mieszkalnych. Są rozmieszczone wzdłuż ulicy i częściowo otoczone zielenią. Widoczne są ich dachy, ściany oraz otwory okienne. Budynki znajdują się w różnej odległości od aparatu, przez co ich pozorna wielkość zmniejsza się w kierunku dalszego planu."
+      },
+      {
+        "object": "duży budynek",
+        "description": "Po prawej stronie obrazu znajduje się większy budynek o prostej, wydłużonej bryle. Zajmuje znaczną część prawej strony środkowego planu i jest wyraźnie większy od części zabudowy znajdującej się po przeciwnej stronie drogi. Wokół niego widoczne są fragmenty otwartego terenu oraz roślinność."
+      },
+      {
+        "object": "znak ograniczenia prędkości",
+        "description": "W pobliżu drogi widoczny jest okrągły znak drogowy z liczbą „50”. Znak znajduje się na pionowym słupku i jest skierowany w stronę uczestników ruchu. Liczba jest czytelna, dlatego może zostać uwzględniona w anotacji bez interpretowania innych, mniej wyraźnych znaków."
+      },
+      {
+        "object": "pozostałe znaki drogowe",
+        "description": "W dalszej części sceny widoczne są dodatkowe znaki ustawione przy drodze. Ze względu na ich niewielki rozmiar i odległość szczegółowe symbole lub tekst nie są wystarczająco czytelne, aby można je było wiarygodnie przepisać."
+      },
+      {
+        "object": "latarnie uliczne",
+        "description": "Wzdłuż drogi rozmieszczone są wysokie, wąskie latarnie uliczne. Ich pionowe słupy wyróżniają się na tle nieba i roślinności. Latarnie znajdują się w różnych odległościach od aparatu, co dodatkowo podkreśla głębię sceny i kierunek przebiegu drogi."
+      },
+      {
+        "object": "drzewa i roślinność",
+        "description": "Zielona roślinność występuje po obu stronach drogi oraz pomiędzy budynkami. Widoczne są drzewa, krzewy, trawa i inne niewielkie obszary zieleni. Roślinność tworzy nieregularne naturalne formy kontrastujące z prostymi liniami drogi, budynków, słupów i znaków."
+      },
+      {
+        "object": "niebo",
+        "description": "Jasne niebieskie niebo zajmuje dużą część górnego obszaru obrazu. Stanowi tło dla dachów budynków, koron drzew, znaków i wysokich latarni. Jasność nieba oraz silne oświetlenie sceny wskazują na fotografię wykonaną w warunkach dziennych."
+      }
+    ],
+    "global_description": "Fotografia przedstawia spokojną ulicę z rozległym skrzyżowaniem lub połączeniem kilku odcinków drogi w otoczeniu niskiej zabudowy i zieleni. Utwardzona nawierzchnia zajmuje dużą część pierwszego planu i prowadzi w kierunku centralnej oraz dalszej części obrazu. Krawędzie drogi tworzą wyraźne linie perspektywiczne, które kierują wzrok w głąb sceny. W centralnej części znajduje się otwarta przestrzeń skrzyżowania, gdzie poszczególne odcinki drogi łączą się lub rozchodzą w różnych kierunkach. Po lewej stronie widocznych jest kilka niewielkich budynków mieszkalnych rozmieszczonych wzdłuż ulicy. Są częściowo otoczone drzewami, krzewami i inną zielenią. Po prawej stronie znajduje się większy, wydłużony budynek, który zajmuje znaczną część środkowego planu i wyraźnie różni się skalą od mniejszych budynków po przeciwnej stronie. Przy drodze ustawione są znaki drogowe. Jeden z nich ma okrągły kształt i czytelną liczbę „50”. W dalszej części sceny znajdują się również inne znaki, jednak ich szczegóły są zbyt małe, aby wiarygodnie odczytać znajdujące się na nich symbole lub tekst. Wzdłuż ulicy rozmieszczone są wysokie latarnie. Ich smukłe pionowe słupy pojawiają się na kolejnych planach i pomagają podkreślić kierunek drogi oraz głębię przestrzeni. Zieleń występuje po obu stronach jezdni i wokół zabudowy. Drzewa i krzewy tworzą nieregularne kształty, które kontrastują z geometrycznymi liniami budynków, nawierzchni, znaków i latarni. Górną część obrazu wypełnia jasne niebieskie niebo. Scena jest dobrze oświetlona światłem dziennym, a poszczególne elementy otoczenia są wyraźnie widoczne. Kompozycję można podzielić na kilka planów: na pierwszym planie dominuje nawierzchnia drogi, w środkowym znajdują się skrzyżowanie, znaki, latarnie, roślinność i zabudowania, natomiast dalszy plan tworzą kolejne fragmenty drogi, bardziej odległe obiekty i niebo. Najważniejszym elementem organizującym kompozycję jest droga, której przebieg prowadzi wzrok od dolnej części kadru w stronę dalszego planu."
+  },
+  "en": {
+    "object_annotations": [
+      {
+        "object": "road",
+        "description": "A paved road occupies a large portion of the lower and central areas of the image and extends into the distance. An intersection or connection between several sections of road is visible near the foreground. The surface is relatively uniform, while the edges of the road establish the direction of perspective and guide the viewer toward the background."
+      },
+      {
+        "object": "intersection",
+        "description": "An area where roads meet or cross is visible in the central part of the scene. Individual sections of pavement extend in different directions. The intersection creates an open space between the buildings positioned on the left and right sides."
+      },
+      {
+        "object": "residential buildings",
+        "description": "Several small residential buildings are visible along the left side of the road. They are positioned along the street and partially surrounded by greenery. Their roofs, walls, and window openings are visible. The buildings are located at different distances from the camera and decrease in apparent size toward the background."
+      },
+      {
+        "object": "large building",
+        "description": "A larger building with a simple elongated form is positioned on the right side of the image. It occupies a substantial portion of the right side of the middle ground and is visibly larger than some of the buildings on the opposite side of the road. Areas of open ground and vegetation are visible around it."
+      },
+      {
+        "object": "speed limit sign",
+        "description": "A circular road sign displaying the number “50” is visible near the road. The sign is mounted on a vertical pole and faces road users. The number is legible and can therefore be included in the annotation without attempting to interpret other, less distinct signs."
+      },
+      {
+        "object": "other road signs",
+        "description": "Additional road signs are visible farther into the scene. Because of their small size and distance from the camera, their detailed symbols or text are not sufficiently clear to be transcribed reliably."
+      },
+      {
+        "object": "street lights",
+        "description": "Tall narrow street lights are positioned along the road. Their vertical poles stand out against the sky and vegetation. The lights appear at different distances from the camera, further emphasizing the depth of the scene and the direction of the road."
+      },
+      {
+        "object": "trees and vegetation",
+        "description": "Green vegetation is present on both sides of the road and between the buildings. Trees, shrubs, grass, and other areas of greenery are visible. Their irregular natural forms contrast with the straight lines of the road, buildings, poles, and signs."
+      },
+      {
+        "object": "sky",
+        "description": "A bright blue sky occupies a large portion of the upper part of the image. It forms the background behind the building roofs, tree crowns, road signs, and tall street lights. The brightness of the sky and the strong illumination of the scene indicate daytime conditions."
+      }
+    ],
+    "global_description": "The photograph shows a quiet road with a broad intersection or connection between several sections of roadway, surrounded by low-rise buildings and greenery. The paved surface occupies a large portion of the foreground and extends toward the central and more distant parts of the image. The edges of the road create clear perspective lines that guide the viewer deeper into the scene. An open intersection is located in the central area, where different sections of the road meet or extend in different directions. Several small residential buildings are visible along the left side of the street. They are partially surrounded by trees, shrubs, and other greenery. A larger elongated building stands on the right and occupies a substantial part of the middle ground, differing noticeably in scale from the smaller buildings on the opposite side. Road signs are positioned beside the roadway. One circular sign contains the clearly visible number “50”. Other signs can be seen farther into the scene, but their symbols or text are too small to read reliably. Tall street lights are positioned along the road. Their slender vertical poles appear at different distances and help emphasize both the direction of the roadway and the depth of the scene. Green vegetation occurs on both sides of the road and around the buildings. Trees and shrubs form irregular shapes that contrast with the geometric lines of the buildings, pavement, signs, and street lights. A bright blue sky fills the upper portion of the image. The scene is clearly illuminated by daylight, allowing the major elements of the surroundings to remain visible. The composition can be divided into several spatial layers: the road surface dominates the foreground; the intersection, signs, street lights, vegetation, and buildings occupy the middle ground; and more distant sections of the road, smaller background elements, and the sky form the farthest layer. The road is the main element organizing the composition, with its direction leading the viewer from the lower part of the frame toward the background."
+  }
+}

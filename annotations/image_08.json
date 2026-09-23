@@ -1,0 +1,77 @@
+{
+  "image": "image_08.jpeg",
+  "pl": {
+    "object_annotations": [
+      {
+        "object": "budynek",
+        "description": "Jasny budynek znajduje się w centralnej części obrazu na zielonym, nachylonym terenie. Jego przednia elewacja jest zwrócona w stronę obserwatora i ma symetryczny układ z centralnie umieszczonym wejściem. Nad wejściem znajduje się wysoka, wąska część konstrukcji zakończona smukłą iglicą. Jasne ściany wyraźnie kontrastują z intensywną zielenią otaczającej roślinności."
+      },
+      {
+        "object": "wieża i iglica",
+        "description": "Nad centralną częścią budynku wznosi się wysoka, wąska wieża zakończona spiczastą iglicą. Jest to najwyższy element konstrukcji i tworzy mocną pionową linię w centralnej części kompozycji. Jasna powierzchnia wieży i iglicy odcina się od zielonego wzgórza oraz niebieskiego nieba."
+      },
+      {
+        "object": "wejście i schody",
+        "description": "Centralne wejście do budynku znajduje się na końcu schodów prowadzących w górę po nachylonym terenie. Stopnie tworzą wyraźną linię prowadzącą od niższej części kadru w stronę głównej elewacji. Układ schodów dodatkowo podkreśla centralne położenie wejścia."
+      },
+      {
+        "object": "napis na budynku",
+        "description": "Nad wejściem widoczny jest napis „IGLESIA NI CRISTO”. Litery są rozmieszczone na przedniej części budynku i kontrastują z jasną powierzchnią elewacji. Opis ogranicza się do treści widocznego napisu bez dodatkowego wnioskowania o charakterze lub przynależności obiektu."
+      },
+      {
+        "object": "zielone zbocze",
+        "description": "Budynek znajduje się na nachylonym, intensywnie zielonym terenie. Trawiaste zbocze zajmuje dużą część dolnej i bocznych części obrazu. Nachylenie terenu jest szczególnie widoczne w relacji do schodów prowadzących w stronę wejścia."
+      },
+      {
+        "object": "palmy i roślinność",
+        "description": "W otoczeniu budynku znajdują się różne rodzaje zielonej roślinności, w tym palmy o długich liściach. Rośliny występują po bokach konstrukcji i na zboczu. Ich nieregularne, organiczne kształty kontrastują z prostymi i symetrycznymi liniami architektury."
+      },
+      {
+        "object": "zalesione wzgórze",
+        "description": "Za budynkiem znajduje się wzniesienie pokryte gęstą zieloną roślinnością. Tworzy ono naturalne tło dla jasnej konstrukcji. Gęste drzewa i krzewy wypełniają znaczną część dalszego planu i tworzą ciemniejszy zielony obszar za budynkiem."
+      },
+      {
+        "object": "niebo",
+        "description": "Jasne niebieskie niebo zajmuje górną część obrazu ponad budynkiem i zalesionym wzgórzem. Tworzy otwartą przestrzeń wokół najwyższej części iglicy i wyraźnie kontrastuje z zielonym krajobrazem."
+      }
+    ],
+    "global_description": "Fotografia przedstawia jasny budynek stojący na zielonym, nachylonym terenie, otoczony bujną roślinnością i zalesionym wzgórzem. Budynek zajmuje centralną część kompozycji i jest pokazany przede wszystkim od strony przedniej elewacji. Jego konstrukcja ma uporządkowany, w dużej mierze symetryczny układ. Najbardziej charakterystycznym elementem jest wysoka, wąska centralna część zakończona smukłą, spiczastą iglicą, która wznosi się ponad pozostałe fragmenty budynku. Pionowa forma wieży prowadzi wzrok od głównego wejścia w stronę górnej części kadru. Centralne wejście znajduje się powyżej poziomu otaczającego terenu. Prowadzą do niego schody biegnące w górę po zboczu. Układ schodów tworzy linię prowadzącą od niższej części obrazu bezpośrednio w stronę wejścia i wzmacnia centralną organizację kompozycji. Nad wejściem na elewacji widoczny jest napis „IGLESIA NI CRISTO”. Jasne powierzchnie budynku wyraźnie odcinają się od otaczających go intensywnych odcieni zieleni. Konstrukcja stoi na trawiastym zboczu, które zajmuje dużą część pierwszego i środkowego planu. Wokół budynku rosną różne rośliny, w tym palmy z długimi liśćmi oraz inne drzewa i krzewy. Roślinność jest rozmieszczona zarówno przy konstrukcji, jak i na otaczającym ją terenie. Za budynkiem wznosi się wzgórze pokryte gęstymi drzewami i inną zieloną roślinnością. Tworzy ono naturalne, ciemniejsze tło dla jasnej architektury. Nieregularne kształty koron drzew i liści kontrastują z prostymi liniami elewacji oraz pionową formą wieży. W górnej części kadru znajduje się jasne niebieskie niebo. Szczególnie dobrze widoczne jest wokół najwyższego fragmentu iglicy oraz ponad zalesionym wzgórzem. Kompozycja ma wyraźną głębię: na pierwszym planie znajduje się zielone zbocze, w środkowej części dominuje jasny budynek ze schodami i otaczającymi roślinami, natomiast dalszy plan tworzą gęsto porośnięte wzgórze oraz niebo. Głównym punktem obrazu pozostaje centralna konstrukcja, której jasny kolor, symetryczna elewacja i wysoka iglica wyróżniają ją na tle naturalnego krajobrazu. Dominujące kolory to jasne odcienie elewacji, intensywna zieleń trawy, drzew i palm oraz błękit nieba."
+  },
+  "en": {
+    "object_annotations": [
+      {
+        "object": "building",
+        "description": "A light-colored building is positioned in the central part of the image on green sloping terrain. Its front facade faces the viewer and has a symmetrical arrangement with a centrally positioned entrance. A tall narrow section rises above the entrance and ends in a slender pointed spire. The light-colored walls contrast strongly with the intense green vegetation surrounding the structure."
+      },
+      {
+        "object": "tower and spire",
+        "description": "A tall narrow tower rises above the central part of the building and ends in a pointed spire. It is the highest element of the structure and creates a strong vertical line through the center of the composition. The light surface of the tower and spire stands out against the green hillside and blue sky."
+      },
+      {
+        "object": "entrance and stairs",
+        "description": "The central entrance to the building is located at the top of a set of stairs ascending the sloping terrain. The steps create a clear line leading from the lower portion of the frame toward the main facade. Their arrangement further emphasizes the central position of the entrance."
+      },
+      {
+        "object": "text on the building",
+        "description": "The text “IGLESIA NI CRISTO” is visible above the entrance. The letters are arranged across the front portion of the building and contrast with the light-colored facade. The annotation is limited to the visible wording without making additional assumptions about the nature or affiliation of the structure."
+      },
+      {
+        "object": "green slope",
+        "description": "The building stands on sloping, intensely green terrain. The grassy hillside occupies a large portion of the lower and side areas of the image. The incline is especially apparent in relation to the stairs leading toward the entrance."
+      },
+      {
+        "object": "palm trees and vegetation",
+        "description": "Different types of green vegetation surround the building, including palm trees with long leaves. Plants are distributed along the sides of the structure and across the slope. Their irregular organic forms contrast with the straight and symmetrical lines of the architecture."
+      },
+      {
+        "object": "forested hill",
+        "description": "A hill covered with dense green vegetation rises behind the building. It forms a natural background for the light-colored structure. Dense trees and shrubs occupy a substantial part of the background and create a darker green area behind the building."
+      },
+      {
+        "object": "sky",
+        "description": "A bright blue sky occupies the upper portion of the image above the building and forested hill. It creates open space around the highest part of the spire and contrasts clearly with the green landscape."
+      }
+    ],
+    "global_description": "The photograph shows a light-colored building standing on green sloping terrain, surrounded by abundant vegetation and a forested hill. The building occupies the central part of the composition and is viewed primarily from its front facade. Its structure has an orderly and largely symmetrical arrangement. The most distinctive architectural element is a tall narrow central section ending in a slender pointed spire that rises above the rest of the building. The vertical form of the tower directs attention upward from the main entrance toward the upper part of the frame. The central entrance is positioned above the level of the surrounding terrain. A set of stairs ascends the slope toward it, creating a visual line from the lower part of the image directly toward the entrance and reinforcing the central organization of the composition. The text “IGLESIA NI CRISTO” is visible on the facade above the entrance. The light surfaces of the building stand out clearly against the intense green tones of the surrounding landscape. The structure is positioned on a grassy slope that occupies much of the foreground and middle ground. Different plants grow around the building, including palm trees with long leaves as well as other trees and shrubs. Vegetation is distributed both close to the structure and across the surrounding terrain. Behind the building rises a hill covered with dense trees and other green vegetation. This forms a natural, darker background for the light-colored architecture. The irregular shapes of tree crowns and leaves contrast with the straight lines of the facade and the strong vertical form of the tower. A bright blue sky occupies the upper part of the frame and is particularly visible around the highest portion of the spire and above the forested hill. The composition has clear spatial depth: the green slope occupies the foreground, the light-colored building, stairs, and surrounding plants dominate the middle ground, and the densely vegetated hill and sky form the background. The central structure remains the main visual focus because its light color, symmetrical facade, and tall spire distinguish it from the natural landscape. The dominant colors are the pale tones of the building, the intense greens of the grass, trees, and palms, and the blue of the sky."
+  }
+}

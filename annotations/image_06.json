@@ -1,0 +1,69 @@
+{
+  "image": "image_06.jpeg",
+  "pl": {
+    "object_annotations": [
+      {
+        "object": "ulica",
+        "description": "Szeroka ulica zajmuje znaczną część dolnej i środkowej części obrazu i prowadzi w głąb kadru pomiędzy rzędami zabudowy. Jej powierzchnia jest pokryta regularnie ułożoną kostką lub cegłą brukową, tworzącą powtarzalną strukturę. Linie ulicy zwężają się wraz z odległością, wzmacniając wrażenie perspektywy i prowadząc wzrok w kierunku dalszej części sceny. Na powierzchni ulicy znajdują się zarówno pojazdy, jak i rowerzysta."
+      },
+      {
+        "object": "rowerzysta",
+        "description": "Rowerzysta znajduje się na pierwszym planie i przemieszcza się poprzecznie przez ulicę. Postać siedzi na rowerze i jest pokazana z boku. Koła roweru tworzą dwa wyraźne okręgi, a pomiędzy nimi widoczna jest rama. Rowerzysta znajduje się bliżej aparatu niż większość samochodów i budynków, dzięki czemu stanowi jeden z najbardziej zauważalnych elementów dolnej części kompozycji. Ze względu na skalę i charakter fotografii drobne szczegóły twarzy oraz ubioru nie są wystarczająco czytelne do dokładnego opisania."
+      },
+      {
+        "object": "rzędy budynków",
+        "description": "Po obu stronach ulicy znajdują się zwarte rzędy wielokondygnacyjnych budynków o prostokątnych elewacjach. Zabudowa tworzy wyraźne granice przestrzeni ulicznej i prowadzi w kierunku dalszego planu. Na fasadach widoczne są powtarzające się prostokątne okna i otwory wejściowe. Część budynków ma ceglane elewacje, których regularny układ kontrastuje z jaśniejszymi fragmentami okien. Budynki znajdujące się bliżej aparatu są większe i bardziej szczegółowe, natomiast kolejne stopniowo zmniejszają się wraz z odległością."
+      },
+      {
+        "object": "zaparkowane samochody",
+        "description": "Wzdłuż ulicy znajduje się kilka samochodów ustawionych przy krawędziach jezdni. Pojazdy są rozmieszczone w różnych odległościach od aparatu, przez co ich rozmiary w kadrze stopniowo maleją w kierunku dalszego planu. Mają widoczne nadwozia, szyby i koła, ale czarno-biały charakter fotografii uniemożliwia określenie ich rzeczywistych kolorów. Samochody zajmują znacznie mniej przestrzeni niż otaczająca je zabudowa."
+      },
+      {
+        "object": "latarnie uliczne",
+        "description": "Wzdłuż ulicy rozmieszczone są wysokie, wąskie latarnie. Ich pionowe słupy wyróżniają się na tle elewacji i otwartej przestrzeni ulicy. Kolejne latarnie pojawiają się w różnych odległościach, pomagając podkreślić głębię sceny. Część z nich znajduje się w pobliżu krawędzi jezdni i chodników."
+      },
+      {
+        "object": "anteny na dachach",
+        "description": "Na dachach części budynków widoczne są cienkie konstrukcje antenowe. Składają się z pionowych i poziomych elementów wystających ponad linię dachów. Ze względu na odległość są drobnymi elementami obrazu, ale wyraźnie odcinają się od jaśniejszego nieba."
+      },
+      {
+        "object": "niebo",
+        "description": "Jasne niebo zajmuje górną część obrazu ponad linią dachów. Jest stosunkowo jednolite i zawiera mniej szczegółów niż zabudowa oraz ulica. Jasna powierzchnia nieba kontrastuje z ciemniejszymi konturami dachów, kominów, anten i innych elementów znajdujących się w górnej części zabudowy."
+      }
+    ],
+    "global_description": "Czarno-biała fotografia przedstawia szeroką miejską ulicę otoczoną po obu stronach zwartą zabudową. Ulica zajmuje znaczną część dolnej i centralnej części obrazu i prowadzi od pierwszego planu w głąb sceny. Jej powierzchnia jest pokryta regularnie ułożoną kostką lub cegłą brukową, której powtarzający się wzór jest szczególnie widoczny w bliższej części kadru. Wraz ze wzrostem odległości szczegóły nawierzchni stają się coraz mniej wyraźne, a boczne krawędzie ulicy wizualnie zbliżają się do siebie. Tworzy to silną perspektywę prowadzącą wzrok w kierunku dalszej części ulicy. Na pierwszym planie znajduje się rowerzysta przemieszczający się poprzecznie przez ulicę. Postać siedzi na rowerze i jest widoczna z boku. Dwa koła tworzą wyraźne okrągłe formy, pomiędzy którymi znajduje się rama roweru. Rowerzysta jest położony bliżej aparatu niż większość pozostałych elementów sceny, dlatego stanowi jeden z ważniejszych punktów wizualnych pierwszego planu. Szczegóły twarzy i drobne elementy ubrania nie są wystarczająco wyraźne, aby można było je wiarygodnie opisać. Po obu stronach ulicy ciągną się rzędy wielokondygnacyjnych budynków. Ich elewacje tworzą długie, stosunkowo zwarte ściany ograniczające przestrzeń uliczną. Na fasadach powtarzają się prostokątne okna, wejścia oraz inne elementy architektoniczne. W wielu miejscach widoczna jest ceglana struktura elewacji. Budynki położone bliżej aparatu zajmują większą część kadru i mają bardziej czytelne szczegóły, natomiast zabudowa w dalszej części ulicy staje się stopniowo mniejsza i mniej wyraźna. Powtarzające się linie elewacji, dachów, chodników i krawędzi jezdni wzmacniają perspektywę obrazu. Wzdłuż ulicy znajdują się samochody ustawione przy jej krawędziach. Poszczególne pojazdy są rozmieszczone w różnych odległościach od obserwatora. Widać ich nadwozia, szyby oraz koła, ale ze względu na monochromatyczny charakter fotografii nie można określić ich rzeczywistych kolorów. Samochody znajdujące się dalej są mniejsze i mają mniej widocznych szczegółów. Przy ulicy ustawiono również wysokie, wąskie latarnie. Ich pionowe słupy pojawiają się w kolejnych częściach sceny i kontrastują z dominującymi poziomymi oraz ukośnymi liniami ulicy i zabudowy. Powtarzalność latarni, podobnie jak samochodów i okien, dodatkowo podkreśla odległość pomiędzy pierwszym a dalszym planem. Na dachach niektórych budynków znajdują się cienkie anteny oraz inne niewielkie elementy wystające ponad linię zabudowy. Ich ciemne kontury są widoczne na tle jasnego nieba. Górna część obrazu jest znacznie mniej szczegółowa niż środkowa i dolna, ponieważ wypełnia ją przede wszystkim jasne, stosunkowo jednolite niebo. Kompozycja ma wyraźną głębię przestrzenną. Najbliższy plan tworzą brukowana powierzchnia ulicy i rowerzysta, środkowy plan obejmuje samochody, latarnie i najbliższe budynki, natomiast dalszy plan tworzy zwężająca się perspektywicznie ulica wraz z coraz mniejszą zabudową. Fotografia jest monochromatyczna, dlatego jej strukturę wizualną budują przede wszystkim różnice jasności, kontrast oraz geometria elementów. Jaśniejsze fragmenty nieba, okien i części nawierzchni są zestawione z ciemniejszymi elewacjami, pojazdami, rowerzystą i detalami architektonicznymi. Powtarzające się prostokątne formy okien i budynków, okrągłe koła roweru i samochodów oraz długie linie ulicy tworzą uporządkowaną miejską kompozycję."
+  },
+  "en": {
+    "object_annotations": [
+      {
+        "object": "street",
+        "description": "A broad street occupies a substantial portion of the lower and central areas of the image and extends into the distance between rows of buildings. Its surface is covered with regularly arranged paving blocks or bricks, creating a repeated texture. The sides of the street visually converge with increasing distance, strengthening the sense of perspective and directing attention toward the background. Both vehicles and a cyclist are present on the street."
+      },
+      {
+        "object": "cyclist",
+        "description": "A cyclist is positioned in the foreground and moves across the street. The person is seated on a bicycle and is shown from the side. The bicycle wheels form two clearly visible circular shapes with the frame extending between them. The cyclist is closer to the camera than most of the cars and buildings and therefore forms one of the most noticeable elements in the lower part of the composition. Because of the scale and character of the photograph, fine facial and clothing details are not sufficiently clear for precise description."
+      },
+      {
+        "object": "rows of buildings",
+        "description": "Dense rows of multi-story buildings line both sides of the street. Their rectangular facades create clear boundaries around the street and extend toward the background. Repeated rectangular windows and entrances are visible across the facades. Portions of the buildings have brick surfaces, with their regular structure contrasting with lighter window areas. Buildings closer to the camera appear larger and contain more visible detail, while those farther away gradually decrease in apparent size."
+      },
+      {
+        "object": "parked cars",
+        "description": "Several cars are positioned along the sides of the street. They appear at different distances from the camera and therefore become progressively smaller toward the background. Their bodies, windows, and wheels are visible, but the black-and-white photograph does not provide information about their actual colors. The vehicles occupy considerably less visual space than the surrounding buildings."
+      },
+      {
+        "object": "street lamps",
+        "description": "Tall, narrow street lamps are distributed along the street. Their vertical poles stand out against the building facades and the open street area. Successive lamps appear at different distances, helping emphasize the depth of the scene. Several are positioned near the edges of the roadway and sidewalks."
+      },
+      {
+        "object": "rooftop antennas",
+        "description": "Thin antenna structures are visible on the roofs of some buildings. They consist of vertical and horizontal elements extending above the roofline. Although small because of their distance from the camera, their dark outlines remain visible against the brighter sky."
+      },
+      {
+        "object": "sky",
+        "description": "A bright sky occupies the upper portion of the image above the rooftops. It is relatively uniform and contains fewer details than the buildings and street below. Its light tone contrasts with the darker outlines of roofs, antennas, and other structures extending above the buildings."
+      }
+    ],
+    "global_description": "The black-and-white photograph shows a broad urban street bordered on both sides by dense rows of buildings. The street occupies a substantial portion of the lower and central areas of the image and extends from the foreground into the distance. Its surface is covered with regularly arranged paving blocks or bricks, producing a repeated texture that is especially visible near the front of the frame. As the street extends farther away, the surface details become progressively less distinct and the sides of the roadway visually approach one another. This creates a strong sense of perspective and directs attention toward the distant part of the street. A cyclist is positioned in the foreground, crossing the street. The person is seated on a bicycle and viewed from the side. The two wheels form clearly visible circular shapes connected by the bicycle frame. Because the cyclist is closer to the camera than most other elements, the figure forms one of the main visual points in the foreground. Fine facial features and small clothing details are not sufficiently clear to describe reliably. Rows of multi-story buildings extend along both sides of the street. Their facades form long, relatively continuous boundaries around the roadway. Rectangular windows, entrances, and other architectural elements repeat across the building fronts. Brick surfaces are visible on many sections of the facades. Buildings closer to the camera occupy more of the frame and contain more recognizable detail, while structures farther along the street gradually become smaller and less distinct. Repeated lines formed by facades, rooftops, sidewalks, and roadway edges reinforce the perspective of the scene. Cars are positioned along the sides of the street at different distances from the viewer. Their bodies, windows, and wheels can be distinguished, although their actual colors cannot be determined from the monochrome image. Vehicles farther away appear smaller and contain fewer visible details. Tall, narrow street lamps are also distributed along the roadway. Their vertical poles occur repeatedly through the scene and contrast with the dominant horizontal and diagonal lines created by the street and architecture. The repetition of lamps, vehicles, and windows further emphasizes the distance between the foreground and background. Thin antennas and other small structures extend above the roofs of some buildings. Their dark outlines remain visible against the bright sky. The upper portion of the photograph contains considerably fewer details than the middle and lower sections because it is occupied primarily by a relatively uniform light sky. The composition has a clear spatial depth. The nearest plane consists of the paved street surface and the cyclist, the middle ground contains cars, street lamps, and the nearest buildings, while the background is formed by the street narrowing in perspective together with progressively smaller buildings. Because the photograph is monochrome, its visual structure depends primarily on differences in brightness, contrast, and geometry rather than color. Lighter areas of sky, windows, and portions of the street surface contrast with darker building facades, vehicles, the cyclist, and architectural details. Repeated rectangular forms in the windows and buildings, circular bicycle and vehicle wheels, and long converging lines of the street create an ordered urban composition."
+  }
+}
