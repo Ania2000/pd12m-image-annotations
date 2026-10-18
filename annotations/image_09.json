@@ -3,83 +3,91 @@
   "pl": {
     "object_annotations": [
       {
-        "object": "droga",
-        "description": "Utwardzona droga zajmuje dużą część dolnej i środkowej części obrazu i prowadzi w głąb sceny. W pobliżu pierwszego planu widoczne jest skrzyżowanie lub połączenie kilku odcinków drogi. Nawierzchnia jest stosunkowo jednolita, a jej krawędzie wyznaczają kierunek perspektywy i prowadzą wzrok w stronę dalszej części obrazu."
+        "object": "droga i skrzyżowanie",
+        "description": "Szeroka asfaltowa jezdnia zajmuje dolną część kadru i prowadzi w stronę skrzyżowania. Na nawierzchni znajdują się białe oznaczenia poziome. Od skrzyżowania droga biegnie dalej między niskimi budynkami i zielenią."
       },
       {
-        "object": "skrzyżowanie",
-        "description": "W centralnej części sceny znajduje się miejsce, w którym łączą się lub przecinają drogi. Poszczególne odcinki nawierzchni rozchodzą się w różnych kierunkach. Skrzyżowanie tworzy otwartą przestrzeń pomiędzy zabudową znajdującą się po lewej i prawej stronie."
+        "object": "domy po lewej",
+        "description": "Po lewej stronie ulicy stoją niewielkie domy o jasnych elewacjach i dachach. Przy niektórych oknach znajdują się okiennice. Budynki są oddzielone od drogi fragmentami zieleni i ogrodzeniem z siatki."
       },
       {
-        "object": "budynki mieszkalne",
-        "description": "Po lewej stronie drogi znajduje się kilka niewielkich budynków mieszkalnych. Są rozmieszczone wzdłuż ulicy i częściowo otoczone zielenią. Widoczne są ich dachy, ściany oraz otwory okienne. Budynki znajdują się w różnej odległości od aparatu, przez co ich pozorna wielkość zmniejsza się w kierunku dalszego planu."
+        "object": "stary dom po prawej",
+        "description": "Na pierwszym planie po prawej stronie stoi stary dom, częściowo ucięty krawędzią kadru. Ma okna z okiennicami oraz łukowe wejście. Przy posesji biegnie kamienny murek zwieńczony czarną kutą balustradą; obok rosną kwiaty."
       },
       {
-        "object": "duży budynek",
-        "description": "Po prawej stronie obrazu znajduje się większy budynek o prostej, wydłużonej bryle. Zajmuje znaczną część prawej strony środkowego planu i jest wyraźnie większy od części zabudowy znajdującej się po przeciwnej stronie drogi. Wokół niego widoczne są fragmenty otwartego terenu oraz roślinność."
+        "object": "znaki drogowe",
+        "description": "Przy jezdni znajduje się okrągły znak z liczbą „50”. W rejonie skrzyżowania stoi również znak „ustąp pierwszeństwa” pokazany od tylnej strony. Pozostałe znaki rozmieszczono dalej wzdłuż drogi."
       },
       {
-        "object": "znak ograniczenia prędkości",
-        "description": "W pobliżu drogi widoczny jest okrągły znak drogowy z liczbą „50”. Znak znajduje się na pionowym słupku i jest skierowany w stronę uczestników ruchu. Liczba jest czytelna, dlatego może zostać uwzględniona w anotacji bez interpretowania innych, mniej wyraźnych znaków."
+        "object": "hydrant",
+        "description": "Na trawiastym poboczu stoi zielono-żółty hydrant. Przy jego górnej części znajduje się metalowa miska."
       },
       {
-        "object": "pozostałe znaki drogowe",
-        "description": "W dalszej części sceny widoczne są dodatkowe znaki ustawione przy drodze. Ze względu na ich niewielki rozmiar i odległość szczegółowe symbole lub tekst nie są wystarczająco czytelne, aby można je było wiarygodnie przepisać."
+        "object": "zabudowania gospodarcze",
+        "description": "Po prawej stronie, dalej od pierwszego planu, znajdują się zabudowania gospodarcze, biały silos z drabinką oraz stos słomy. W pobliżu drogi stoi również wąska szara trafostacja."
+      },
+      {
+        "object": "samochód dostawczy",
+        "description": "W głębi ulicy znajduje się biały samochód dostawczy. Jego jasne nadwozie odcina się od nawierzchni i otaczającej zieleni."
       },
       {
         "object": "latarnie uliczne",
-        "description": "Wzdłuż drogi rozmieszczone są wysokie, wąskie latarnie uliczne. Ich pionowe słupy wyróżniają się na tle nieba i roślinności. Latarnie znajdują się w różnych odległościach od aparatu, co dodatkowo podkreśla głębię sceny i kierunek przebiegu drogi."
+        "description": "Wzdłuż drogi stoją wysokie latarnie o smukłych słupach. Kolejne latarnie znajdują się w różnych odległościach, pośród zabudowy i roślinności."
       },
       {
-        "object": "drzewa i roślinność",
-        "description": "Zielona roślinność występuje po obu stronach drogi oraz pomiędzy budynkami. Widoczne są drzewa, krzewy, trawa i inne niewielkie obszary zieleni. Roślinność tworzy nieregularne naturalne formy kontrastujące z prostymi liniami drogi, budynków, słupów i znaków."
+        "object": "drzewa, krzewy i trawa",
+        "description": "Drzewa i krzewy rosną po obu stronach ulicy, między domami i przy ogrodzeniach. Trawiaste fragmenty poboczy otaczają część zabudowań oraz hydrant."
       },
       {
-        "object": "niebo",
-        "description": "Jasne niebieskie niebo zajmuje dużą część górnego obszaru obrazu. Stanowi tło dla dachów budynków, koron drzew, znaków i wysokich latarni. Jasność nieba oraz silne oświetlenie sceny wskazują na fotografię wykonaną w warunkach dziennych."
+        "object": "niebo i oświetlenie",
+        "description": "Nad zabudową rozciąga się jasne, bezchmurne niebieskie niebo. Ostre światło słoneczne pada na budynki, jezdnię i roślinność, tworząc wyraźne cienie."
       }
     ],
-    "global_description": "Fotografia przedstawia ulicę z rozległym skrzyżowaniem lub połączeniem kilku odcinków drogi w otoczeniu niskiej zabudowy i zieleni. Utwardzona nawierzchnia zajmuje dużą część pierwszego planu i prowadzi w kierunku centralnej oraz dalszej części obrazu. Krawędzie drogi tworzą wyraźne linie perspektywiczne, które kierują wzrok w głąb sceny. W centralnej części znajduje się otwarta przestrzeń, gdzie poszczególne odcinki drogi łączą się lub rozchodzą w różnych kierunkach. Po lewej stronie widocznych jest kilka niewielkich budynków mieszkalnych rozmieszczonych wzdłuż ulicy. Są częściowo otoczone drzewami, krzewami i inną zielenią. Po prawej stronie znajduje się większy, wydłużony budynek, który zajmuje znaczną część środkowego planu i wyraźnie różni się skalą od mniejszych budynków po przeciwnej stronie. Przy drodze ustawione są znaki drogowe. Jeden z nich ma okrągły kształt i czytelną liczbę „50”. W dalszej części sceny znajdują się również inne znaki, jednak ich szczegóły są zbyt małe, aby wiarygodnie odczytać znajdujące się na nich symbole lub tekst. Wzdłuż ulicy rozmieszczone są wysokie latarnie. Ich smukłe pionowe słupy pojawiają się na kolejnych planach i pomagają podkreślić kierunek drogi oraz głębię przestrzeni. Zieleń występuje po obu stronach jezdni i wokół zabudowy. Drzewa i krzewy tworzą nieregularne kształty, które kontrastują z geometrycznymi liniami budynków, nawierzchni, znaków i latarni. Górną część obrazu wypełnia jasne niebieskie niebo. Scena jest dobrze oświetlona światłem dziennym, a poszczególne elementy otoczenia są wyraźnie widoczne. Kompozycję można podzielić na kilka planów: na pierwszym planie dominuje nawierzchnia drogi, w środkowym znajdują się skrzyżowanie, znaki, latarnie, roślinność i zabudowania, natomiast dalszy plan tworzą kolejne fragmenty drogi, bardziej odległe obiekty i niebo. Najważniejszym elementem organizującym kompozycję jest droga, której przebieg prowadzi wzrok od dolnej części kadru w stronę dalszego planu."
+    "global_description": "Szeroka asfaltowa droga zajmuje dolną część kadru i prowadzi w stronę skrzyżowania pośród niskiej zabudowy i zieleni. Na jezdni znajdują się białe oznaczenia poziome, a jej krawędzie zbiegają się perspektywicznie w oddali. Po lewej stronie stoją niewielkie domy o jasnych elewacjach, z oknami i okiennicami. Pomiędzy posesjami rosną drzewa i krzewy, a przy drodze biegnie ogrodzenie z siatki. Na trawiastym poboczu stoi zielono-żółty hydrant z metalową miską przy górnej części. Prawą krawędź pierwszego planu zajmuje fragment starego domu, częściowo ucięty przez kadr. Budynek ma łukowe wejście i okna z okiennicami. Wzdłuż posesji ciągnie się kamienny murek zwieńczony czarną kutą balustradą, przy której rosną kwiaty. Dalej po prawej stronie znajdują się zabudowania gospodarcze, biały silos z drabinką oraz stos słomy. Przy drodze stoi także wąska szara trafostacja. W pobliżu skrzyżowania ustawiono okrągły znak z liczbą „50” oraz znak „ustąp pierwszeństwa”, pokazany od tylnej strony. Kolejne znaki znajdują się w dalszej części ulicy. Wzdłuż drogi stoją wysokie latarnie o cienkich słupach, rozmieszczone w różnych odległościach. W głębi znajduje się biały samochód dostawczy. Drzewa, krzewy i trawiaste fragmenty poboczy wypełniają przestrzenie między budynkami i otaczają część drogi. Nad zabudową rozciąga się jasne, bezchmurne niebieskie niebo. Ostre światło słoneczne pada na elewacje domów, asfalt i roślinność, tworząc wyraźne cienie na ziemi i przy budynkach. Ujęcie obejmuje rozległy fragment skrzyżowania z perspektywy bliskiej poziomowi ulicy. Na pierwszym planie znajdują się asfaltowa nawierzchnia oraz przycięty krawędzią kadru dom po prawej. Środkowy plan tworzą znaki drogowe, hydrant, latarnie, domy i zabudowania gospodarcze, natomiast w oddali droga biegnie między kolejnymi drzewami i budynkami. Szarość asfaltu i murów zestawiona jest z zielenią roślinności, jasnymi elewacjami oraz intensywnym błękitem nieba."
   },
   "en": {
     "object_annotations": [
       {
-        "object": "road",
-        "description": "A paved road occupies a large portion of the lower and central areas of the image and extends into the distance. An intersection or connection between several sections of road is visible near the foreground. The surface is relatively uniform, while the edges of the road establish the direction of perspective and guide the viewer toward the background."
+        "object": "road and intersection",
+        "description": "A broad asphalt roadway fills the lower part of the frame and leads toward an intersection. White road markings appear on the surface. Beyond the intersection, the road continues between low buildings and greenery."
       },
       {
-        "object": "intersection",
-        "description": "An area where roads meet or cross is visible in the central part of the scene. Individual sections of pavement extend in different directions. The intersection creates an open space between the buildings positioned on the left and right sides."
+        "object": "houses on the left",
+        "description": "Small houses with light-colored facades and roofs line the left side of the road. Some windows have shutters. Patches of greenery and a wire-mesh fence separate the buildings from the street."
       },
       {
-        "object": "residential buildings",
-        "description": "Several small residential buildings are visible along the left side of the road. They are positioned along the street and partially surrounded by greenery. Their roofs, walls, and window openings are visible. The buildings are located at different distances from the camera and decrease in apparent size toward the background."
+        "object": "old house on the right",
+        "description": "An old house stands in the right foreground, partly cropped by the edge of the frame. It has shuttered windows and an arched entrance. A stone wall topped with black wrought-iron railings borders the property, with flowers growing nearby."
       },
       {
-        "object": "large building",
-        "description": "A larger building with a simple elongated form is positioned on the right side of the image. It occupies a substantial portion of the right side of the middle ground and is visibly larger than some of the buildings on the opposite side of the road. Areas of open ground and vegetation are visible around it."
+        "object": "road signs",
+        "description": "A circular sign bearing the number “50” stands beside the roadway. A yield sign is shown from behind near the intersection. Other signs stand farther along the road."
       },
       {
-        "object": "speed limit sign",
-        "description": "A circular road sign displaying the number “50” is visible near the road. The sign is mounted on a vertical pole and faces road users. The number is legible and can therefore be included in the annotation without attempting to interpret other, less distinct signs."
+        "object": "hydrant",
+        "description": "A green-and-yellow hydrant stands on a grassy verge. A metal bowl is attached near its upper section."
       },
       {
-        "object": "other road signs",
-        "description": "Additional road signs are visible farther into the scene. Because of their small size and distance from the camera, their detailed symbols or text are not sufficiently clear to be transcribed reliably."
+        "object": "farm structures",
+        "description": "Farther back on the right are farm buildings, a white silo with a ladder, and a stack of straw. A narrow gray electrical transformer structure also stands near the road."
       },
       {
-        "object": "street lights",
-        "description": "Tall narrow street lights are positioned along the road. Their vertical poles stand out against the sky and vegetation. The lights appear at different distances from the camera, further emphasizing the depth of the scene and the direction of the road."
+        "object": "delivery van",
+        "description": "A white delivery van stands farther along the road. Its light body contrasts with the roadway and surrounding greenery."
       },
       {
-        "object": "trees and vegetation",
-        "description": "Green vegetation is present on both sides of the road and between the buildings. Trees, shrubs, grass, and other areas of greenery are visible. Their irregular natural forms contrast with the straight lines of the road, buildings, poles, and signs."
+        "object": "streetlights",
+        "description": "Tall streetlights with slender poles line the road. They stand at different distances among the buildings and vegetation."
       },
       {
-        "object": "sky",
-        "description": "A bright blue sky occupies a large portion of the upper part of the image. It forms the background behind the building roofs, tree crowns, road signs, and tall street lights. The brightness of the sky and the strong illumination of the scene indicate daytime conditions."
+        "object": "trees, shrubs and grass",
+        "description": "Trees and shrubs grow on both sides of the street, between houses and beside fences. Grassy verges surround some buildings and the hydrant."
+      },
+      {
+        "object": "sky and lighting",
+        "description": "A bright, cloudless blue sky extends above the buildings. Strong sunlight illuminates the buildings, roadway and vegetation, producing distinct shadows."
       }
     ],
-    "global_description": "The photograph shows a road with a broad intersection or connection between several sections of roadway, surrounded by low-rise buildings and greenery. The paved surface occupies a large portion of the foreground and extends toward the central and more distant parts of the image. The edges of the road create clear perspective lines that guide the viewer deeper into the scene. An open intersection is located in the central area, where different sections of the road meet or extend in different directions. Several small residential buildings are visible along the left side of the street. They are partially surrounded by trees, shrubs, and other greenery. A larger elongated building stands on the right and occupies a substantial part of the middle ground, differing noticeably in scale from the smaller buildings on the opposite side. Road signs are positioned beside the roadway. One circular sign contains the clearly visible number “50”. Other signs can be seen farther into the scene, but their symbols or text are too small to read reliably. Tall street lights are positioned along the road. Their slender vertical poles appear at different distances and help emphasize both the direction of the roadway and the depth of the scene. Green vegetation occurs on both sides of the road and around the buildings. Trees and shrubs form irregular shapes that contrast with the geometric lines of the buildings, pavement, signs, and street lights. A bright blue sky fills the upper portion of the image. The scene is clearly illuminated by daylight, allowing the major elements of the surroundings to remain visible. The composition can be divided into several spatial layers: the road surface dominates the foreground; the intersection, signs, street lights, vegetation, and buildings occupy the middle ground; and more distant sections of the road, smaller background elements, and the sky form the farthest layer. The road is the main element organizing the composition, with its direction leading the viewer from the lower part of the frame toward the background."
+    "global_description": "A broad asphalt road fills the lower part of the frame and leads toward an intersection surrounded by low buildings and greenery. White road markings appear on the pavement, and the edges of the roadway converge toward the distance. Small houses with light-colored facades, windows, and shutters stand on the left. Trees and shrubs grow between the properties, and a wire-mesh fence runs beside the road. A green-and-yellow hydrant with a metal bowl near its upper section stands on the grassy verge. Part of an old house occupies the right edge of the foreground and is cropped by the frame. The building has an arched entrance and shuttered windows. A stone wall topped with black wrought-iron railings runs along the property, with flowers growing beside it. Farther back on the right are farm buildings, a white silo with a ladder, and a stack of straw. A narrow gray electrical transformer structure also stands near the road. A circular sign bearing the number “50” and a yield sign shown from behind stand near the intersection. Additional road signs are positioned farther along the street. Tall streetlights with slender poles line the roadway at different distances. A white delivery van stands in the background. Trees, shrubs, and grassy verges fill the spaces between the buildings and border parts of the road. A bright, cloudless blue sky extends above the buildings. Strong sunlight falls on the house facades, asphalt, and vegetation, casting distinct shadows on the ground and beside the buildings. The photograph captures a broad section of the intersection from a viewpoint close to street level. The asphalt surface and the partly cropped house on the right occupy the foreground. Road signs, the hydrant, streetlights, houses, and farm structures form the middle ground, while the road continues between more trees and buildings in the distance. Gray asphalt and masonry contrast with green vegetation, pale facades, and the strong blue of the sky."
   }
 }
